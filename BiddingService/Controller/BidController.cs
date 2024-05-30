@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Options;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
+using RabbitMQ.Client.Exceptions;
 using System.Text;
 
 namespace BiddingService.Controllers
@@ -11,10 +13,34 @@ namespace BiddingService.Controllers
     {
         private readonly ConnectionFactory _factory;
 
-        public BidController()
+        public BidController(IOptions<RabbitMQSettings> rabbitMQOptions)
         {
-            _factory = new ConnectionFactory() { HostName = "rabbitmq" };
+            var settings = rabbitMQOptions.Value;
+            _factory = new ConnectionFactory
+            {
+                HostName = settings.HostName,
+                UserName = settings.UserName,
+                Password = settings.Password
+            };
         }
+
+        // [HttpPost("submit")]
+        // public IActionResult SubmitBid([FromBody] Bid bid)
+        // {
+        //     try
+        //     {
+        //         using var connection = _factory.CreateConnection();
+        //         using var channel = connection.CreateModel();
+
+        //         // Logic to handle bid submission and sending message to notification service
+
+        //         return Ok("Bid submitted and notification sent.");
+        //     }
+        //     catch (BrokerUnreachableException ex)
+        //     {
+        //         return StatusCode(500, $"Could not reach RabbitMQ broker: {ex.Message}");
+        //     }
+        // }
 
         [HttpPost("submit")]
         public IActionResult SubmitBid([FromBody] string bid)
@@ -67,4 +93,12 @@ namespace BiddingService.Controllers
             }
         }
     }
+
+    public class Bid
+    {
+    }
+
+    // public class RabbitMQSettings
+    // {
+    // }
 }
