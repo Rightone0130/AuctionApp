@@ -5,25 +5,12 @@ using RabbitMQ.Client;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
- builder.Services.Configure<RabbitMQSettings>(builder.Configuration.GetSection("RabbitMQSettings"));
+builder.Services.Configure<RabbitMQSettings>(builder.Configuration.GetSection("RabbitMQSettings"));
 builder.Services.Configure<RabbitMQSettings>(builder.Configuration.GetSection("RabbitMQ")); 
-     builder.Services.AddSingleton<RabbitMQService>();
-
-// builder.Services.Configure<RabbitMQSettings>(builder.Configuration.GetSection("RabbitMQ")); //debugging
-// builder.Services.AddSingleton(serviceProvider =>
-// {
-//     var settings = serviceProvider.GetRequiredService<IOptions<RabbitMQSettings>>().Value;
-//     return new ConnectionFactory
-//     {
-//         HostName = settings.HostName,
-//         UserName = settings.UserName,
-//         Password = settings.Password
-//     };
-// });
+builder.Services.AddSingleton<RabbitMQService>();
 
 var app = builder.Build();
 
@@ -71,9 +58,3 @@ record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
     public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 }
 
-// public class RabbitMQSettings //debugging
-// {
-//     public string HostName { get; set; }
-//     public string UserName { get; set; }
-//     public string Password { get; set; }
-// }

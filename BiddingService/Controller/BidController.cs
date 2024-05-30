@@ -20,17 +20,14 @@ namespace BiddingService.Controllers
             return Ok(new { Message = "Bid submitted", Bid = bid });
         }
 
-        [HttpGet("receive")]
+         [HttpGet("receive")]
         public IActionResult ReceiveBid()
         {
-            var message = _rabbitMQService.Consume("bidding_queue");
-            return Ok(new { Message = message });
+            List<string> messages = _rabbitMQService.Consume("bidding_queue");
+            return Ok(new { Messages = messages });
         }
     }
 }
-
-
-
 
 
 
