@@ -1,10 +1,16 @@
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Options;
+using RabbitMQ.Client;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.Configure<RabbitMQSettings>(builder.Configuration.GetSection("RabbitMQSettings"));
+builder.Services.Configure<RabbitMQSettings>(builder.Configuration.GetSection("RabbitMQ"));
+builder.Services.AddSingleton<RabbitMQService>();
 
 var app = builder.Build();
 
@@ -12,15 +18,16 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-   app.UseSwaggerUI(c =>
-    {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "NotificationService API V1");
-        c.RoutePrefix = string.Empty; // Set Swagger UI at the root
-    });
+    app.UseSwaggerUI();
+    // app.UseSwaggerUI(c =>
+    // {
+    //     c.SwaggerEndpoint("/swagger/v1/swagger.json", "RoomService API V1");
+    //     c.RoutePrefix = string.Empty; // Set Swagger UI at the root
+    // });
 }
 
 app.UseHttpsRedirection();
-app.UseAuthorization();
+app.UseAuthorization();  
 app.MapControllers();
 
 var summaries = new[]
@@ -30,7 +37,7 @@ var summaries = new[]
 
 app.MapGet("/weatherforecast", () =>
 {
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
+    var forecast = Enumerable.Range(1, 5).Select(index =>
         new WeatherForecast
         (
             DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
