@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MainMan\\Desktop\\RightOne\\AuctionApp\\RoomService\\RoomService.csproj": {}
+    "C:\\Users\\user\\Desktop\\New folder (2)\\AuctionApp\\RoomService\\RoomService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MainMan\\Desktop\\RightOne\\AuctionApp\\RoomService\\RoomService.csproj": {
+    "C:\\Users\\user\\Desktop\\New folder (2)\\AuctionApp\\RoomService\\RoomService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MainMan\\Desktop\\RightOne\\AuctionApp\\RoomService\\RoomService.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\New folder (2)\\AuctionApp\\RoomService\\RoomService.csproj",
         "projectName": "RoomService",
-        "projectPath": "C:\\Users\\MainMan\\Desktop\\RightOne\\AuctionApp\\RoomService\\RoomService.csproj",
-        "packagesPath": "C:\\Users\\MainMan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MainMan\\Desktop\\RightOne\\AuctionApp\\RoomService\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\New folder (2)\\AuctionApp\\RoomService\\RoomService.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\New folder (2)\\AuctionApp\\RoomService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MainMan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

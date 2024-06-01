@@ -33,3 +33,38 @@ C:\Users\user\Desktop\New folder\AuctionApp\BiddingService\obj\Debug\net8.0\refi
 C:\Users\user\Desktop\New folder\AuctionApp\BiddingService\obj\Debug\net8.0\BiddingService.pdb
 C:\Users\user\Desktop\New folder\AuctionApp\BiddingService\obj\Debug\net8.0\BiddingService.genruntimeconfig.cache
 C:\Users\user\Desktop\New folder\AuctionApp\BiddingService\obj\Debug\net8.0\ref\BiddingService.dll
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\bin\Debug\net8.0\BiddingService.exe
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\bin\Debug\net8.0\BiddingService.deps.json
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\bin\Debug\net8.0\BiddingService.runtimeconfig.json
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\bin\Debug\net8.0\BiddingService.dll
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\bin\Debug\net8.0\BiddingService.pdb
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\BiddingService.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\BiddingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\BiddingService.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\BiddingService.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\BiddingService.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\BiddingService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\BiddingService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\BiddingService.sourcelink.json
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\staticwebassets\msbuild.BiddingService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\staticwebassets\msbuild.build.BiddingService.props
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BiddingService.props
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BiddingService.props
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\scopedcss\bundle\BiddingService.styles.css
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\BiddingS.B52EB60A.Up2Date
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\BiddingService.dll
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\refint\BiddingService.dll
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\BiddingService.pdb
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\BiddingService.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder (2)\AuctionApp\BiddingService\obj\Debug\net8.0\ref\BiddingService.dll

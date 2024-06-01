@@ -1,37 +1,3 @@
 # Visual Studio Code
 .vscode/
 
-# Visual Studio
-*.suo
-*.user
-*.sln.docstates
-bin/
-obj/
-
-# Rider
-.idea/
-*.sln.iml
-
-# NuGet
-packages/
-
-# Build results
-[Bb]in/
-[Oo]bj/
-
-# ReSharper
-_ReSharper*/
-
-# Test Results
-[Tt]est[Rr]esult*/
-
-# Ignore DS_Store for macOS
-.DS_Store
-
-# Ignore NuGet configuration file
-nuget.config
-
-# Ignore build artifacts and logs
-*.log
-*.dll
-*.exe
