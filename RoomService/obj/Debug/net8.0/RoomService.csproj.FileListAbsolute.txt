@@ -33,3 +33,38 @@ C:\Users\user\Desktop\New folder\AuctionApp\RoomService\obj\Debug\net8.0\refint\
 C:\Users\user\Desktop\New folder\AuctionApp\RoomService\obj\Debug\net8.0\RoomService.pdb
 C:\Users\user\Desktop\New folder\AuctionApp\RoomService\obj\Debug\net8.0\RoomService.genruntimeconfig.cache
 C:\Users\user\Desktop\New folder\AuctionApp\RoomService\obj\Debug\net8.0\ref\RoomService.dll
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\bin\Debug\net8.0\appsettings.json
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\bin\Debug\net8.0\RoomService.exe
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\bin\Debug\net8.0\RoomService.deps.json
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\bin\Debug\net8.0\RoomService.runtimeconfig.json
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\bin\Debug\net8.0\RoomService.dll
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\bin\Debug\net8.0\RoomService.pdb
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\RoomService.csproj.AssemblyReference.cache
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\RoomService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\RoomService.AssemblyInfoInputs.cache
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\RoomService.AssemblyInfo.cs
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\RoomService.csproj.CoreCompileInputs.cache
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\RoomService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\RoomService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\RoomService.sourcelink.json
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\staticwebassets\msbuild.RoomService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\staticwebassets\msbuild.build.RoomService.props
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RoomService.props
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RoomService.props
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\scopedcss\bundle\RoomService.styles.css
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\RoomServ.E3A30069.Up2Date
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\RoomService.dll
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\refint\RoomService.dll
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\RoomService.pdb
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\RoomService.genruntimeconfig.cache
+C:\Users\MainMan\Desktop\RightOne\AuctionApp\RoomService\obj\Debug\net8.0\ref\RoomService.dll
